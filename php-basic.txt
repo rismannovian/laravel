@@ -2,5 +2,4 @@ PHP BASIC
 - Pengenalan PHP
 - contoh dasar penggunakan PHP
 - Fungsi
-- Perulangan
 - Array
